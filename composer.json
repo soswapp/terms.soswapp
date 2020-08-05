@@ -1,0 +1,20 @@
+{
+    "name": "soswapp/terms.soswapp",
+    "description": "Terms and Conditions - Web app",
+    "keywords": ["php", "javascript","7","seven","os","web","conditions","terms"],
+    "homepage": "https://github.com/soswapp/terms.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {}
+}
